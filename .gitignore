@@ -1,0 +1,21 @@
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/dist
+
+# test coverage
+/coverage
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+/.vscode
+
+# storybook
+/storybook-static
