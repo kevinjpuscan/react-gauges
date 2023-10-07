@@ -19,3 +19,7 @@ run.sh
 storybook-static/*
 dist/*
 rollup.config.js
+commitlint.config.js
+.husky/*
+package-lock.json
+package.json

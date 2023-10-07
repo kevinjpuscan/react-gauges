@@ -129,3 +129,4 @@ run.sh
 storybook-static/*
 dist/*
 rollup.config.js
+.husky/*
