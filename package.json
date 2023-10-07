@@ -1,6 +1,6 @@
 {
   "name": "react-gauges",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Set of reusable gauge components for use in React applications",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
