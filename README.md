@@ -1,5 +1,5 @@
 # react-gauges
-[![npm version](https://badge.fury.io/js/react-gauges.svg)](https://badge.fury.io/js/react-gauges)
+[![npm](https://img.shields.io/npm/v/react-gauges.svg)](https://www.npmjs.com/package/react-gauges)
 
 This library provides a set of reusable gauge components for use in React applications.
 
