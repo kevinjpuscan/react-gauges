@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
-import { type SimpleGaugeParameters } from "@/core/simpleGauge/simpleGauge.types";
-import { getSimpleGaugeParameters } from "@/core/simpleGauge";
+import { type SimpleGaugeParameters } from "../../../core/simpleGauge/simpleGauge.types";
+import { getSimpleGaugeParameters } from "../../../core/simpleGauge";
 
 export function useBarParameters(
   width: number,

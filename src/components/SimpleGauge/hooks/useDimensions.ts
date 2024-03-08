@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import { getSimpleGaugeHeightContainer } from "@/core/simpleGauge";
+import { getSimpleGaugeHeightContainer } from "../../../core/simpleGauge";
 
 export function useDimensions(gaugeContainer: React.RefObject<HTMLDivElement>, barWidth: number, isTotal: boolean) {
   const getContainerWidth = (gaugeContainer: React.RefObject<HTMLDivElement>) => {

@@ -27,10 +27,10 @@ export default [
     ],
     plugins: [
       peerDepsExternal(),
-      alias({
+    /*alias({
         resolve: [".ts", ".tsx", ".json"],
         entries: [{ find: "@", replacement: path.resolve(__dirname, "src") }],
-      }),
+      }), */
       resolve(),
       commonjs(),
       typescript({ tsconfig: "./tsconfig.json" }),

@@ -23,3 +23,4 @@ commitlint.config.js
 .husky/*
 package-lock.json
 package.json
+tsconfig.json

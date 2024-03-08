@@ -1,6 +1,6 @@
 import React from "react";
 import { GaugeProps } from "./SimpleGauge.types";
-import { getLabel } from "@/core/utils/labels";
+import { getLabel } from "../../core/utils/labels";
 import { useDimensions, useBarParameters } from "./hooks";
 
 export default function SimpleGauge({
